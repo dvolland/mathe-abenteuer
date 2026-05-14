@@ -3,7 +3,7 @@
   "short_name": "Mathe 🌟",
   "description": "Mathe-Quiz für Klasse 2 und 3 – Punkte sammeln, Tiere freischalten!",
   "lang": "de",
-  "start_url": "./mathe-abenteuer.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
@@ -30,13 +30,13 @@
       "name": "Multiplizieren",
       "short_name": "×",
       "description": "Multiplizier-Quiz starten",
-      "url": "./mathe-abenteuer.html#A"
+      "url": "./#A"
     },
     {
       "name": "Dividieren",
       "short_name": "÷",
       "description": "Divisions-Quiz starten",
-      "url": "./mathe-abenteuer.html#C"
+      "url": "./#C"
     }
   ]
 }

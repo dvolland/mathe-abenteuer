@@ -8,7 +8,7 @@
 const CACHE  = 'mathe-abenteuer-v1';
 const ASSETS = [
   './',
-  './mathe-abenteuer.html',
+  './index.html',
   './manifest.json',
   './icon.svg',
 ];
