@@ -1,0 +1,42 @@
+{
+  "name": "Mathe-Abenteuer",
+  "short_name": "Mathe 🌟",
+  "description": "Mathe-Quiz für Klasse 2 und 3 – Punkte sammeln, Tiere freischalten!",
+  "lang": "de",
+  "start_url": "./mathe-abenteuer.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#6C63FF",
+  "theme_color": "#6C63FF",
+  "categories": ["education", "kids"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Multiplizieren",
+      "short_name": "×",
+      "description": "Multiplizier-Quiz starten",
+      "url": "./mathe-abenteuer.html#A"
+    },
+    {
+      "name": "Dividieren",
+      "short_name": "÷",
+      "description": "Divisions-Quiz starten",
+      "url": "./mathe-abenteuer.html#C"
+    }
+  ]
+}
